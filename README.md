@@ -1,6 +1,8 @@
 # Word Count and Penalty Calculator
 
-To run the app in Windows or MacOS, download and run the executable files from Build.
+To run the app in Windows or MacOS, download and run the executable files:
+- word_count_calc_mac
+- word_count_calc_win
 
 -----------------------------------------------------------------------------------------------------
 
