@@ -9,6 +9,10 @@ To run the app in Docker and also to run it on a mobile or tablet (connected to 
 Install docker desktop for your OS: https://www.docker.com/products/docker-desktop/
 
 Type cmd in the search box or open terminal on mac
+
+Download tar file from Docker Hub:
+https://hub.docker.com/search?q=word_count_and_penalty_calculator
+
 Find the path to the downloaded tar file
 Type 'cd mypath' to navigate to the resource
 Type:
