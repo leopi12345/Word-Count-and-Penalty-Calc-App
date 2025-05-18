@@ -4,9 +4,9 @@ To run the app in Windows or MacOS, download and run the executable files from B
 
 -----------------------------------------------------------------------------------------------------
 
-https://github.com/user-attachments/assets/95dbe03d-8e9f-409c-949f-9d82abac8635
-
 To run the app in Docker and also to run it on a mobile or tablet (connected to the same wi-fi), follow the intructions below:
+
+https://github.com/user-attachments/assets/95dbe03d-8e9f-409c-949f-9d82abac8635
 
 Install docker desktop for your OS: https://www.docker.com/products/docker-desktop/
 
