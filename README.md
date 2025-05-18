@@ -6,6 +6,8 @@ To run the app in Windows or MacOS, download and run the executable files from B
 [![Watch the video]
 [https://raw.githubusercontent.com/leopi12345/Word-Count-and-Penalty-Calc-App/blob/main/assets/Tutorial_priv_sub_last.mp4](https://github.com/leopi12345/Word-Count-and-Penalty-Calc-App/blob/main/assets/Tutorial_priv_sub_last.mp4)
 
+[![Watch the video](https://raw.githubusercontent.com/yourusername/yourrepository/main/assets/thumbnail.jpg)]([https://raw.githubusercontent.com/yourusername/yourrepository/main/assets/video.mp4](https://raw.githubusercontent.com/leopi12345/Word-Count-and-Penalty-Calc-App/blob/main/assets/Tutorial_priv_sub_last.mp4](https://github.com/leopi12345/Word-Count-and-Penalty-Calc-App/blob/main/assets/Tutorial_priv_sub_last.mp4))
+
 To run the app in Docker and also to run it on a mobile or tablet (connected to the same wi-fi), follow the intructions below:
 
 Install docker desktop for your OS: https://www.docker.com/products/docker-desktop/
